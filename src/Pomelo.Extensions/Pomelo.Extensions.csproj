@@ -6,11 +6,11 @@
     <AssemblyName>Pomelo.Extensions</AssemblyName>
     <PackageId>Pomelo.Extensions</PackageId>
     <PackageIconUrl>https://avatars2.githubusercontent.com/u/19828814?v=3</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/PomeloFoundation/dotNETCore-Extensions</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/PomeloFoundation/dotNETCore-Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/soika/dotNETCore-Extensions</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/soika/dotNETCore-Extensions/blob/master/LICENSE</PackageLicenseUrl>
     <RepositoryType>git</RepositoryType>
     <RepositoryUrl>https://github.com/PomeloFoundation/dotNETCore-Extensions</RepositoryUrl>
-    <NetStandardImplicitPackageVersion>2.0.0-preview2-25401-01</NetStandardImplicitPackageVersion>
+    <NetStandardImplicitPackageVersion>2.0.0</NetStandardImplicitPackageVersion>
     <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
     <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
     <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
